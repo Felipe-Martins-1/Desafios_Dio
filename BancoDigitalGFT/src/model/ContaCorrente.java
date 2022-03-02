@@ -1,0 +1,12 @@
+package model;
+
+/**
+ *
+ * @author Felipe
+ */
+public class ContaCorrente extends Conta {
+
+    public ContaCorrente(Cliente cliente) {
+        super(cliente);
+    }
+}
