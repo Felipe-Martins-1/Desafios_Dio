@@ -1,6 +1,6 @@
 # PadroesProjetoJava
 - DESCRIÇÃO:
-    - Este projeto comtém os padrôes de projeto Java:
+    - Este projeto contém os padrões de projeto Java:
         - Singleton;
         - Strategy;
         - Facade.
